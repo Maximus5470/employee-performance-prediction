@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d8f2156-e1db-4560-9394-89421466bba0" name="Changes" comment="main commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0d8f2156-e1db-4560-9394-89421466bba0" name="Changes" comment="README.md added">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +60,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="main commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="main commit" />
+    <MESSAGE value="README.md added" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md added" />
   </component>
 </project>

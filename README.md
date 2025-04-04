@@ -61,10 +61,10 @@ Rotating 3D Scatter Plot - Shows the relationship between age, income, years at 
 Feature Importance Charts - Highlights the most influential factors for attrition and performance
 Department and Role Analysis - Interactive charts showing attrition risk by department and job role
 
-Note 
+Note that the interactive visualizations require a web browser to view.
+Tableau visualizations are also included for further analysis [here](https://public.tableau.com/app/profile/gautham.sharma/viz/EmployeeAttritionProject_17437562521440/ExployeePerformance?publish=yes) .
 ## Prediction Functionality
 The system can predict:
-
 
 Attrition risk probability for employees
 Binary attrition outcome (Yes/No)
@@ -73,7 +73,6 @@ The predict_employee_outcomes() function takes employee data and returns predict
 
 ## Sample Results
 The project generates several output files:
-
 
 best_reg_model_feature_importance.png - Feature importance visualization
 attrition_vs_satisfaction.png - Relationship between attrition and job satisfaction
@@ -84,3 +83,8 @@ role_attrition_risk.html - Role-wise attrition risk
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contributors
+
+- Rohith Gona
+- Gautham Sharma
