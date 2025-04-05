@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d8f2156-e1db-4560-9394-89421466bba0" name="Changes" comment="mini edit">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="0d8f2156-e1db-4560-9394-89421466bba0" name="Changes" comment="update: mini change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/employee-preformance-prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/employee-preformance-prediction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee_dashboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/employee_dashboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +94,12 @@
     <MESSAGE value="README.md added" />
     <MESSAGE value="mini config" />
     <MESSAGE value="mini edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="mini edit" />
+    <MESSAGE value="port change" />
+    <MESSAGE value="minor config" />
+    <MESSAGE value="update: demo video, installation and port" />
+    <MESSAGE value="add sklearn module" />
+    <MESSAGE value="web page view for all the html and png files" />
+    <MESSAGE value="update: mini change" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: mini change" />
   </component>
 </project>
