@@ -456,4 +456,4 @@ def update_pca_3d_visualization(id):
 
 # Run the app
 if __name__ == '__main__':
-    app.run(debug=True, port=8050)
+    app.run(debug=True, port=8060)
