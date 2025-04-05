@@ -77,7 +77,8 @@ Feature Importance Charts - Highlights the most influential factors for attritio
 Department and Role Analysis - Interactive charts showing attrition risk by department and job role
 
 Note that the interactive visualizations require a web browser to view.
-Tableau visualizations are also included for further analysis [here](https://public.tableau.com/app/profile/gautham.sharma/viz/EmployeeAttritionProject_17437562521440/ExployeePerformance?publish=yes) .
+Tableau visualizations are also included for further analysis [here](https://public.tableau.com/app/profile/gautham.sharma/viz/EmployeeAttritionProject_17437562521440/ExployeePerformance?publish=yes).
+You can check this website too [over here](https://rohithgg.github.io/employee-performance-prediction/)
 ## Prediction Functionality
 The system can predict:
 
