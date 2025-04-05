@@ -63,7 +63,7 @@ This project provides advanced visualization and prediction capabilities for emp
 
 3. Open your web browser and go to http://127.0.0.1:8060 to view the dashboard.
 4. you can also run the Jupyter Notebook `Employee_Attrition_and_Performance_Analysis.ipynb` for detailed analysis and visualizations.
-5. for more vistualizations you can check the Tableau link [here](https://public.tableau.com/app/profile/gautham.sharma/viz/EmployeeAttritionProject_17437562521440/ExployeePerformance?publish=yes) and .
+5. for more vistualizations you can check the Tableau link [here](https://public.tableau.com/app/profile/gautham.sharma/viz/EmployeeAttritionProject_17437562521440/ExployeePerformance?publish=yes) and web page [over here](https://rohithgg.github.io/employee-performance-prediction/).
 
 ## Visualizations
 The project includes various visualizations:
