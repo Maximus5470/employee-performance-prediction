@@ -99,7 +99,8 @@ role_attrition_risk.html - Role-wise attrition risk
 
 ## Demo
 this is the demo of the project and how the visualizations are presented in the dashboard.
-![Demo](2025-04-05 16-20-03.mp4)
+
+![Demo](demovid.mp4)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
