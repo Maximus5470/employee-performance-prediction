@@ -98,9 +98,9 @@ dept_attrition_risk.html - Department-wise attrition risk
 role_attrition_risk.html - Role-wise attrition risk
 
 ## Demo
-this is the demo of the project and how the visualizations are presented in the dashboard.
+This is the project demo and how the visualizations are presented in the dashboard.
 
-![Demo](demovid.mp4)
+![Demo](demogif.gif)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
