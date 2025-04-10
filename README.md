@@ -107,5 +107,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contributors
 
-- Rohith Gona
-- Gautham Sharma
+- Rohith Gona - Rohithgg
+- Gautham Sharma - Maximus5470
